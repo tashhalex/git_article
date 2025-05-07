@@ -1,1 +1,2 @@
 I'm adding text to my first file
+All mistakes were corrected. This file was staged and committed.
